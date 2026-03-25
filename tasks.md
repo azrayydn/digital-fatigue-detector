@@ -105,14 +105,14 @@ Bu liste [prd.md](prd.md) (**FlowGuard AI**, Faz 1: C# Engine — Windows masaü
 =======
 # FlowGuard AI — Geliştirme Görev Listesi
 
-Bu liste [prd.md](prd.md) (**FlowGuard AI**, Faz 1: C# Engine — Windows masaüstü) ile hizalıdır. Maddeleri tamamladıkça işaretleyin.
+Bu liste [prd.md](prd.md) (**FlowGuard AI**, yerel-first prototip) ile hizalıdır. Maddeleri tamamladıkça işaretleyin.
 
 ---
 
 ## Faz 0 — Proje ve mimari hazırlık
 
 - [x] PRD hazırlanması ve teknoloji seçimi (C#) — *PRD Bölüm 7, Adım 1*
-- [x] Çözüm yapısı: Python masaüstü istemci + ayrı `engine` modülü (hook/motor)
+- [x] Çözüm yapısı: Python web istemcisi (Flask) + ayrı `engine` modülü (hook/motor)
 - [x] Hedef Python sürümü ve pip bağımlılıkları (scikit-learn vb.) sabitlensin
 - [ ] Katmanlar netlensin: **Hook toplama → metrik hesaplama → baseline/ML → UI/bildirim** (veri akışı diyagramı)
 - [ ] README: kurulum, çalıştırma, mimari özet (yerel işleme, veri buluta gitmez)

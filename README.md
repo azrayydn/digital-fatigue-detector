@@ -24,6 +24,6 @@ FlowGuard AI is a local-first fatigue detection prototype. This setup uses Pytho
 ## Run
 
 - (Önerilen) `python main.py`
-- Alternatif: `PYTHONPATH=src python -m desktop_app.main`
+- Alternatif: `PYTHONPATH=src python -m web_app.app`
 
 >>>>>>> c271fa7 (First working version)
