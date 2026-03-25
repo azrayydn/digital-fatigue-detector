@@ -1,0 +1,4 @@
+pynput==1.8.1
+python-dotenv==1.2.2
+scikit-learn==1.8.0
+

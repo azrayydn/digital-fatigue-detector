@@ -1,0 +1,15 @@
+[project]
+name = "flowguard-ai"
+version = "0.1.0"
+description = "Local fatigue tracking prototype for FlowGuard AI."
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "pynput",
+    "python-dotenv",
+    "scikit-learn",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
