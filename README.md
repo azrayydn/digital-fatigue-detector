@@ -1,29 +1,21 @@
-<<<<<<< HEAD
-# digital-fatigue-detector
-A machine learning project that predicts digital fatigue based on user interaction patterns.
-=======
-# FlowGuard AI (Python MVP)
+# FlowGuard AI
 
-FlowGuard AI is a local-first fatigue detection prototype. This setup uses Python and keeps processing on-device.
+## Proje Amacı
+Bu uygulama kullanıcıların odak seviyesini analiz eder ve üretkenliğini artırmayı hedefler.
 
-## Project structure
+## Özellikler
+- Odak skoru hesaplama
+- Aktivite takibi
+- Yapay zeka analizi
+- Oturum yönetimi (başlat / duraklat / devam et)
 
-- `src/desktop_app`: desktop entry-point layer
-- `src/engine`: keyboard/mouse tracking and metrics engine
-- `src/shared`: shared models and constants
-- `tests`: test suite
+## Kurulum
+```bash
+pip install -r requirements.txt
+python main.py
 
-## Setup
+Tarayıcıda aç:
+http://127.0.0.1:5000
 
-1. Create and activate virtual environment:
-   - `python -m venv .venv`
-   - `.\.venv\Scripts\Activate.ps1`
-2. Install dependencies:
-   - `pip install -r requirements.txt`
-
-## Run
-
-- (Önerilen) `python main.py`
-- Alternatif: `PYTHONPATH=src python -m web_app.app`
-
->>>>>>> c271fa7 (First working version)
+Açıklama
+Bu proje kullanıcı davranışlarını analiz ederek dijital yorgunluk ve odak seviyesini tahmin eder.
