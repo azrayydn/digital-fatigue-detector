@@ -1,4 +1,5 @@
 <img width="1621" height="724" alt="Ekran görüntüsü 2026-03-29 123743" src="https://github.com/user-attachments/assets/3d851fd7-7484-476d-99c0-5f0227bcb51f" /># FlowGuard AI
+https://flowguardai.lovable.app
 
 FlowGuard AI – Akıllı Odak ve Üretkenlik Analiz Sistemi
 
