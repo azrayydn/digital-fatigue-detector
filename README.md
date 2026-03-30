@@ -1,13 +1,14 @@
 <img width="1621" height="724" alt="Ekran görüntüsü 2026-03-29 123743" src="https://github.com/user-attachments/assets/3d851fd7-7484-476d-99c0-5f0227bcb51f" /># FlowGuard AI
 
-## Proje Amacı
-Bu uygulama kullanıcıların odak seviyesini analiz eder ve üretkenliğini artırmayı hedefler.
+FlowGuard AI – Akıllı Odak ve Üretkenlik Analiz Sistemi
 
-## Özellikler
-- Odak skoru hesaplama
-- Aktivite takibi
-- Yapay zeka analizi
-- Oturum yönetimi (başlat / duraklat / devam et)
+FlowGuard AI, bireylerin dijital davranışlarını analiz ederek odak seviyelerini ölçen ve üretkenliği artırmayı hedefleyen yapay zekâ destekli bir web uygulamasıdır. Günümüzde kullanıcılar çoğu zaman odak kaybını fark edemeden verimsiz bir çalışma süreci geçirir. Bu proje, tam olarak bu görünmeyen problemi çözmek için geliştirilmiştir.
+
+Uygulama; klavye kullanım hızı, etkileşim sıklığı ve oturum davranışlarını analiz ederek kullanıcıya anlık bir “odak skoru” sunar. Bununla birlikte, yorgunluk seviyesi, aktivite hızı ve yazma davranışları gibi metrikleri izleyerek kişiye özel içgörüler üretir. Kullanıcı dostu arayüzü sayesinde bireyler tek bir panel üzerinden performanslarını takip edebilir, geçmiş verilerini analiz edebilir ve odak alışkanlıklarını geliştirebilir.
+
+FlowGuard AI’ın en güçlü yönlerinden biri, pasif veri toplama ile kullanıcıyı yormadan anlamlı analizler sunmasıdır. Sistem, yalnızca ölçüm yapmakla kalmaz; aynı zamanda kullanıcıya farkındalık kazandırarak davranış değişimi yaratmayı hedefler.
+
+Bu proje, veri analitiği, kullanıcı deneyimi ve yapay zekâyı bir araya getirerek gerçek hayattaki üretkenlik problemlerine yenilikçi bir çözüm sunmaktadır.
 
 ## Kurulum
 ```bash
